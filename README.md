@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HumayounAkhtar
+- 👋 Hi, I’m @Humayoun Akhtar
 - 👀 I’m interested in ...Data Science,Python,AI.
 - 🌱 I’m currently learning ...Data Science,Python,AI.
 - 💞️ I’m looking to collaborate on ..Python Coding.
